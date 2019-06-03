@@ -1,0 +1,42 @@
+class:
+--------------
+class consists of methods and variables.it can be accessed using the object.
+
+object
+--------
+it is known as the instace of the class.Class can be accessed using object
+
+static
+----------
+*It is the keyword 
+*object is not needed for static method
+*All instance of the class can access the static variable
+
+super
+---------
+ super() invokes the constructor of the parent class.
+ super.variable_name refers to the variable in the parent class.
+ super.method_name refers to the method of the parent class.
+
+final
+----------
+Final variable is unabel overwrite
+Final method is unable to methodoverload
+Final Class cannot be inherited
+
+this
+------------
+ this keyword is used to refer the current instance of the method on which it is used. 
+
+
+try
+-----------
+it is used to throw the exception without terminating the program
+
+catch
+----------
+it is used to catch the exception thrown by try block
+
+finally
+-----------
+it is exceted after try catcg block
